@@ -1,0 +1,23 @@
+header {
+    background-color: crimson;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.banner {
+    position: relative;
+
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+.banner .welcome {
+    position: absolute;
+    left: 0;
+    top: 30%;
+}
